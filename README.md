@@ -15,6 +15,8 @@ http://vamos.sourceforge.net/
 - Levels 4/1
 - Utilities 8
 
+- B
+
 # Vamos
 - Geometry
 - Kinematics
@@ -53,5 +55,5 @@ a        |a           |a              | Drivetrain  | Electric  |a           | C
 a        |a           |a              | Engine      | Magnetism |a           | Bootstrap
 a        |a           |a              | Fuel        |a           |a           | Javascript
 a        |a           |a              | Tire        |a           |a           | (Controls)
-a        |a           |a              | Gearbox     |a           |a           |a
-a        |a           |a              | Wheel       |a           |a           |a
+a        |a           |a              | Gearbox     |a           |a           | 2D Geppetto
+a        |a           |a              | Wheel       |a           |a           | 3D Web-XR
