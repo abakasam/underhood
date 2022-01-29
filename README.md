@@ -47,11 +47,11 @@ Geometry | Kinematics  | Mechanics    | Control     | Dynamics  | Levels    | Ut
 ---------|-------------|--------------|-------------|-----------|-----------|----------
 TODO     | Collision   | Friction     | Brake       | Aero      | Tracks    | Browser
          | Coordinates | Momentum     | Clutch      | Thermo    | Worlds    | HTML
-         | Particle    | Drag         | Dashboard   | Hydro     | Cars      | -Media
-         | Body        | Transmission | Differntial | Gas       | Sky       | -Sounds
+         | Particle    | Drag         | Dashboard   | Hydro     | Cars      | (Media)
+         | Body        | Transmission | Differntial | Gas       | Sky       | (Sounds)
          |             |              | Drivetrain  | Electric  |           | CSS
          |             |              | Engine      | Magnetism |           | Bootstrap
          |             |              | Fuel        |           |           | Javascript
-         |             |              | Tire        |           |           | -Controls
+         |             |              | Tire        |           |           | (Controls)
          |             |              | Gearbox     |           |           |
          |             |              | Wheel       |           |           |
