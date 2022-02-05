@@ -15,8 +15,6 @@ http://vamos.sourceforge.net/
 - Levels 4/1
 - Utilities 8
 
-- B
-
 # Vamos
 - Geometry
 - Kinematics
