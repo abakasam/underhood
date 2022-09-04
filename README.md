@@ -43,16 +43,16 @@ Metrics           | TODO
 Driver            | TODO
 
 # Assignments
-Geometry    | Kinematics  | Mechanics    | Control     | Dynamics  | Levels    | Utilities
-------------|-------------|--------------|-------------|-----------|-----------|----------
-Matrix      | Collision   | Friction     | Brake       | Aero      | Tracks    | Browser
-Comparisons | Coordinates | Momentum     | Clutch      | Thermo    | Worlds    | HTML
-Conversions | Particle    | Drag         | Dashboard   | Hydro     | Cars      | (Media)
-Constants   | Body        | Transmission | Differntial |a          | Sky       | (Sounds)
-Spline      |a            |a             | Drivetrain  |a          |a          | CSS
-Interpolator|a            |a             | Engine      |a          |a          | Bootstrap
-Vector      |a            |a             | Fuel        |a          |a          | Javascript
-Collision   |a            |a             | Tire        |a          |a          | (Controls)
-Gains       |a            |a             | Gearbox     |a          |a          | 2D Geppetto
-Material    |a            |a             | Wheel       |a          |a          | 3D Web-XR
-Inertia     |a            |a             |a            |a          |a          |a
+Geometry    | Kinematics  | Mechanics    | Control      | Dynamics  | Levels    | Utilities
+------------|-------------|--------------|--------------|-----------|-----------|----------
+Matrix      | Collision   | Friction     | Brake        | Aero      | Tracks    | Browser
+Comparisons | Coordinates | Momentum     | Clutch       | Thermo    | Worlds    | HTML
+Conversions | Particle    | Drag         | Dashboard    | Hydro     | Cars      | (Media)
+Constants   | Body        | Transmission | Differential |a          | Sky       | (Sounds)
+Spline      |a            |a             | Drivetrain   |a          |a          | CSS
+Interpolator|a            |a             | Engine       |a          |a          | Bootstrap
+Vector      |a            |a             | Fuel         |a          |a          | Javascript
+Collision   |a            |a             | Tire         |a          |a          | (Controls)
+Gains       |a            |a             | Gearbox      |a          |a          | 2D Geppetto
+Material    |a            |a             | Wheel        |a          |a          | 3D Web-XR
+Inertia     |a            |a             |a             |a          |a          |a
